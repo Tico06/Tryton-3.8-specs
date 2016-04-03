@@ -5,8 +5,8 @@ I am currently testing tryton 3.8 and in order to reproduce my install with ease
 
 In order to compile the packages you need to install python-py2pack. To get the sources first create the following directories:
 ~/rpmbuild
-  |-SOURCES
-  \-SPECS
+ |-SOURCES
+ \-SPECS
   
 cd ~rpmbuild/SOURCES
 
